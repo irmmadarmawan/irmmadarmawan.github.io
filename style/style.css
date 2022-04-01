@@ -397,9 +397,11 @@ section{
 .blog-header{
 	text-align: left;
 	color: #404040;
-	font-family: 'IvyMode';
+	font-family: 'RomanticLovely' !important;
 	margin-bottom: 5px;
+	font-size: 28px;
 	font-weight: 700;
+	color: #404040;
 }
 
 footer {
@@ -642,7 +644,7 @@ color: #404040 !important;
 }
 
 .carousel-header{
- 	font-family: 'IvyMode';
+ 	font-family: 'RomanticLovely';
 	font-size: 28px;
 	font-weight: 700;
 	color: #404040;
